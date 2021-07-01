@@ -1,3 +1,11 @@
+#head{
+    background-color: rgb(122, 116, 116);
+}
+#blog_title{
+    color: #034e06
+    
+}
+
 /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
 /*===== VARIABLES CSS =====*/
